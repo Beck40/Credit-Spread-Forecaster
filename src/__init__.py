@@ -1,0 +1,1 @@
+"""Credit spread forecasting package."""

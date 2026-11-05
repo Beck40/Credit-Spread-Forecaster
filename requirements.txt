@@ -1,0 +1,16 @@
+hierarchicalforecast
+imbalanced-learn
+ipython
+jupyter
+lightgbm
+matplotlib
+numpy
+pandas
+plotly
+prophet
+requests
+scikit-learn
+seaborn
+torch
+tqdm
+xgboost
